@@ -1,2 +1,2 @@
 # tiny-load
-A electronic load based around the ATTINY85
+A electronic DC constant current load based around the ATTINY85
